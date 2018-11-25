@@ -1,0 +1,115 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Kernel.com" resolutions="1x" timestamp="1543178814921">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4064988821" ref="trabajos-que-realizados:contactanos:¿quienes-somos:index"/>
+    <file name="trabajos-que-realizados.css" crc="4131076011" ref="trabajos-que-realizados"/>
+    <file name="contactanos.css" crc="271483577" ref="contactanos"/>
+    <file name="_quienes-somos.css" crc="3775422428" ref="¿quienes-somos"/>
+    <file name="index.css" crc="3967935952" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="museutils.js" crc="3803043152" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="whatinput.js" crc="86476730" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="museconfig.js" crc="380897831" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="webpro.js" crc="242022427" ref="contactanos:trabajos-que-realizados"/>
+    <file name="form_check.php" crc="147359589" ref="contactanos"/>
+    <file name="form_throttle.php" crc="93986428" ref="contactanos"/>
+    <file name="form_process.php" crc="3851993751" ref="contactanos"/>
+    <file name="form-u721.php" crc="4193230637" ref="contactanos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="require.js" crc="4157109226" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="trabajos-que-realizados"/>
+  </folder>
+  <folder name="images">
+    <file name="71bb5610f583afa613bf6de7c16d05d6.jpg" crc="42730001" seo="true" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index">
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="¿quienes-somos" alt=""/>
+      <caption webpage="trabajos-que-realizados" alt=""/>
+    </file>
+    <file name="recurso 3.png" crc="4035913239" seo="true" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index">
+      <caption webpage="contactanos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="¿quienes-somos" alt=""/>
+      <caption webpage="trabajos-que-realizados" alt=""/>
+    </file>
+    <file name="u1414-4.png" crc="313457895" ref="contactanos:trabajos-que-realizados:¿quienes-somos:index"/>
+    <file name="u592-4.png" crc="336427842" ref="contactanos"/>
+    <file name="u815-4.png" crc="378087552" ref="contactanos"/>
+    <file name="recurso 4.png" crc="284480193" seo="true" ref="contactanos">
+      <caption webpage="contactanos" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="trabajos-que-realizados"/>
+    <file name="u832.png" crc="336201133" ref="trabajos-que-realizados"/>
+    <file name="u832-r.png" crc="193072160" ref="trabajos-que-realizados"/>
+    <file name="u832-a.png" crc="3949022058" ref="trabajos-que-realizados"/>
+    <file name="u826.png" crc="266027147" ref="trabajos-que-realizados"/>
+    <file name="u826-r.png" crc="143744114" ref="trabajos-que-realizados"/>
+    <file name="u826-a.png" crc="512473255" ref="trabajos-que-realizados"/>
+    <file name="a710d858-a18d-4c34-b0f1-843a92bc41e8-crop-u951.jpg" crc="400957306" seo="true" ref="trabajos-que-realizados">
+      <caption webpage="trabajos-que-realizados" alt=""/>
+    </file>
+    <file name="36824052-34ef-4d7a-b535-98b94a94f7e8.jpg" crc="96010285" seo="true" ref="trabajos-que-realizados">
+      <caption webpage="trabajos-que-realizados" alt=""/>
+    </file>
+    <file name="sin título.jpg" crc="4007707653" seo="true" ref="trabajos-que-realizados">
+      <caption webpage="trabajos-que-realizados" alt=""/>
+    </file>
+    <file name="u849-4.png" crc="443300771" ref="trabajos-que-realizados"/>
+    <file name="u1163-4.png" crc="3931602709" ref="trabajos-que-realizados"/>
+    <file name="b4b6c78b-1a6f-4218-ab8b-d7fbd50b4748.jpg" crc="316630952" seo="true" ref="¿quienes-somos">
+      <caption webpage="¿quienes-somos" alt=""/>
+    </file>
+    <file name="u1417-13.png" crc="3987525086" ref="¿quienes-somos"/>
+    <file name="recurso 5.png" crc="4017220832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1172-6.png" crc="4158686282" ref="index"/>
+    <file name="u1408-6.png" crc="4028682722" ref="index"/>
+    <file name="u1186-4.png" crc="147868125" ref="index"/>
+    <file name="u1189-4.png" crc="104389545" ref="index"/>
+    <file name="831_logo_8cb300a3.png" crc="4151544167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1200px-gw2k_2004_logosvg.png" crc="3890729313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toshiba_logo-crop-u1207.png" crc="215751982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acer-logo_2011.png" crc="4121073859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apple-logo-png.png" crc="354113603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2000px-fujitsu-logosvg.png" crc="271179756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="compaq_90.png" crc="3967774616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dell_logo.png" crc="3982743758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asus-logo-transparent.png" crc="4147619825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sony_logo_png2.png" crc="406398228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hp_logo_630x630.png" crc="3871014956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="samsung_logo_png4.png" crc="3871158625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="contactanos.html" crc="144249927" seo="true" mt="1543174870458" redirect="true"/>
+  <file name="trabajos-que-realizados.html" crc="4269311056" seo="true" mt="1543178769886" redirect="true"/>
+  <file name="¿quienes-somos.html" crc="3906695929" seo="true" mt="1543178104164" redirect="true"/>
+  <file name="index.html" crc="4258148800" seo="true" mt="1543174870458" redirect="true"/>
+</manifest>
